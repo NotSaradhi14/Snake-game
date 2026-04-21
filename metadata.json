@@ -1,0 +1,6 @@
+{
+  "name": "BeatSnake",
+  "description": "A neon-infused Snake game synchronized with retro-synth beats and a sleek hardware-inspired music player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
